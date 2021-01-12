@@ -1,0 +1,7 @@
+C:\Users\Kornél\source\repos\kektura\bin\Debug\kektura.exe.config
+C:\Users\Kornél\source\repos\kektura\bin\Debug\kektura.exe
+C:\Users\Kornél\source\repos\kektura\bin\Debug\kektura.pdb
+C:\Users\Kornél\source\repos\kektura\obj\Debug\kektura.csprojAssemblyReference.cache
+C:\Users\Kornél\source\repos\kektura\obj\Debug\kektura.csproj.CoreCompileInputs.cache
+C:\Users\Kornél\source\repos\kektura\obj\Debug\kektura.exe
+C:\Users\Kornél\source\repos\kektura\obj\Debug\kektura.pdb
